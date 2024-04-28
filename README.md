@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sugandha1606
-- 👀 I’m interested in Java Spring boot, Database, NOSQL
-- 🌱 I’m currently learning Devops and NOSQL
+- 👀 I’m interested in Java Spring boot, Database, NOSQL, DSA
+- 🌱 I’m currently learning DSA
 
 
 <!---
